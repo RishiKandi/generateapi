@@ -51,4 +51,4 @@ def generate_api():
 # destination_blob_name = "video.mp4"
 # upload_video_to_bucket(local_file_path, bucket_name, destination_blob_name)
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0',debug=True)

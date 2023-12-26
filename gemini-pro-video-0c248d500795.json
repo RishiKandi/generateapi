@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gemini-pro-video",
+  "private_key_id": "0c248d50079557268c8f68401eeb96b09d058b06",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCpFH29kBGkkj8V\nW4nPj4NnmBAop5hM5g/6taZoUoZZWDwk2M/Adfqr+l9nmElHFxf6cOO5uiIsYC1P\noOSdCC7e3f2mUS9MV4djzC3Gi66uOcHlvbwsZIB8tNtkNJ/ssIH99Koka6+0DYPh\nOPfgkrfFB0XoyNE+KFcMacgDE3gA67FO5Xb8a4GnkCXvroe1LZs945XIsJum5TdB\nbNk5G696RVjiOzVQiLK03er6j25Fp5V/PET6v3JmNfFO47Ez2B3RjIKKv2IjJc7e\nbSz0+otNy+uKpoSaH0tk4JdJbWxp2ihXnpgWlh3BOzim5cDgX2rcC5mC1d1mNg8p\nK4j+chrlAgMBAAECggEAIeVwQdkImHATQoJb8ecJBnMnRic3Mq9qo63YAxEMSwwT\n3qUynRhp3SFwD/IpOp3IGlaYaMsGf9P2MYEFY+/YiaiCad3buBfSFjFAOg4Vwmrk\n0tyDRXkOgzG0y/V63DYUkWeD1pJaIqQU/MlxdC2lttO68ayUujvXG693QBqek7xY\neqM2Fz4PsBXwXG2oqA90DHY1VAADrV+fipVGMLbRvfsr9p0Z+8CoEFA0c4US57tN\njDDE35EmRDLGpGFPawCAfo+hipglxhFOKQ+WVR4CRGM7HU5nZNcNa6GR1AlwYzUG\n6X+3wBaz68aRLR99WDGzyQcerB2teQCN9MWQbpHlbwKBgQDrl4ypeHw6ubLxv66t\n25S2iKUxdUq5pYwErPEfxG9bA+YbxaL2QDh5nmt4hiek1tfVmTWcasgzrXpRhrLh\nhnu9A5W7zqARoYBmw0czHRUbBbIJq4vNtB7PJ9DP0JT3L3+v9LUyj3GlnAtOvtIB\n5S/qv1SPETYjJTMX9sk/As32pwKBgQC3ufu9RBmKcNt9gFgidJ2TzKFPZ6VK2s/B\nB15qAc0BtHY2WE3rhB46kbFCu3S55cf6wJR3jT9LAntT4s7HHghmKV/EidacHNmh\nijTYSWNZ4s9QclIgBgQurQ9cbkAZP1pXXnd27niJNF2xqQL4Zipd2oH9X+9Kq9OH\n50oYQV7fkwKBgBEOqu+GOrBhy5P3ReVulYjVwegfzuY8FzQrdVXQeiOD18BBAfiE\nU9JyZuOWCv7DU2MysY/+pzoeoFGQyBjODN11ifzMDAjawZovH1OTEnkfY3GRyxB8\nrxJelp7FQlPXS45o0Em12wubjbII3NmoR1zet3eYTmwjAF0G0DFQuarXAoGBAKOa\nixAr7y53dwyX2GO+Qn/VjaN+4RL6LFxwamOtfNfS0h1snt5lhOGU0Stib/wGIQEq\nskqPTdhGunmlk4p+NO58U1pZf/D+Q9H0l0AugbkOHpw9YOJBWUITO4WMa6nP32vD\npFAU5OMQ7YoBvbJij8GJjY2J+zUcMz5m+HUG6SvfAoGBAIfxp0Iy3s0DdZoLRLos\nWSSy34eqJTyUTJR3BBW7WCmNZ0yX0iX5An9VOr4t2bJ3HW5Ejq1KJiZVECH8qCsZ\nmjzdqLIBJAFI0/NPSMScj8LdQ1xB8bQ9EEAVKLtXqhww/AMf+ScHbpZtLhl7jmQN\nx+06tc7/xiP0DXph2VVivw0a\n-----END PRIVATE KEY-----\n",
+  "client_email": "gemini-video@gemini-pro-video.iam.gserviceaccount.com",
+  "client_id": "108077742046399569614",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gemini-video%40gemini-pro-video.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
